@@ -1,0 +1,36 @@
+# Release binaries should be attached through GitHub Releases, not committed to repo history
+*.exe
+*.msi
+*.zip
+*.7z
+
+# Local store state
+salryn.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Sensitive material
+.secrets/
+*.pem
+*.key
+*.pfx
+*.lic
+*.license
+*license*.json
+*activation*.json
+*entitlement*.json
+
+# Development folders
+node_modules/
+.git/
+.vs/
+bin/
+obj/
+dist/
+artifacts/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.tmp
