@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/salryn-banner-filled.svg" alt="Salryn POS" width="780">
+  <img src="assets/salryn-banner-filled.png" alt="Salryn POS" width="780">
 </p>
 
 <h1 align="center">Salryn POS</h1>
