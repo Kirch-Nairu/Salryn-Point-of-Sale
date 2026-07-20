@@ -1,0 +1,15 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#071426"/>
+  <rect x="180" y="310" width="300" height="300" rx="54" fill="#0B1F3A"/>
+  <path d="M270 530c20 26 111 44 200 8v42c-91 30-179 11-200-15v-35z" fill="#F8FAFC"/>
+  <path d="M270 585c34 30 140 39 200 7v44c-82 27-173 14-200-17v-34z" fill="#F8FAFC"/>
+  <path d="M285 500c12 13 42 22 83 24h78c27-4 43-11 49-22 4 15-3 30-21 40-33 19-131 18-174-1-22-10-30-24-15-41z" fill="#F8FAFC"/>
+  <path d="M325 355h115v185c0 12-10 22-22 22h-70c-13 0-23-10-23-22V355z" fill="#F8FAFC"/>
+  <path d="M325 355l15 14 15-14 15 14 15-14 15 14 15-14 15 14 15-14v35H325v-35z" fill="#F8FAFC"/>
+  <rect x="352" y="420" width="68" height="9" rx="4.5" fill="#071426"/>
+  <rect x="352" y="456" width="68" height="9" rx="4.5" fill="#071426"/>
+  <rect x="352" y="492" width="58" height="9" rx="4.5" fill="#071426"/>
+  <circle cx="435" cy="595" r="44" fill="#22C55E"/>
+  <path d="M412 594l17 17 30-37" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="560" y="515" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="138" font-weight="800" letter-spacing="-4">Salryn POS</text>
+</svg>
