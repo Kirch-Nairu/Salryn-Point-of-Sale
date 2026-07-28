@@ -1,8 +1,8 @@
 # Changelog
 
-## Upcoming Update — Utang / Accounts Receivable Ledger
+## Upcoming Optional Paid Add-on — Salryn Utang Ledger
 
-Salryn POS is preparing an update for customer credit tracking through an Utang / Accounts Receivable Ledger.
+Salryn POS is preparing a separately quoted add-on for Accounts Receivable / customer credit tracking through the Salryn Utang Ledger.
 
 Many small businesses lose track of customer credit because utang records are scattered across notebooks, paper, chats, and memory. This update is designed to help stores record customer credit properly, track unpaid balances, and monitor collections in one organized system.
 
@@ -24,15 +24,17 @@ Many small businesses lose track of customer credit because utang records are sc
 - Overdue balance visibility
 - Receipt details for customer, cash paid, utang amount, balance due, and due date
 
-### Accounting Direction
+### Operational Tracking Boundary
 
 Utang is not treated as cash.
 
 Credit sales, cash received, collections, and outstanding receivables are separated so store owners can understand both actual cash collected and customer balances still unpaid.
 
+The add-on is an operational receivables tracker for store management. It is not an accounting compliance system, BIR registration feature, official accounting module, or tax reporting module.
+
 ### Current Status
 
-This update is under development and manual QA.
+This optional paid add-on is under development and manual QA.
 
 It is not yet included in the currently downloadable installer.
 

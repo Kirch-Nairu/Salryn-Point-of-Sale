@@ -41,9 +41,9 @@ Internet may be needed for downloading the installer, updates, setup help, or su
 
 ---
 
-## Upcoming Update: Utang Ledger
+## Upcoming Optional Paid Add-on: Salryn Utang Ledger
 
-Salryn POS is preparing an Utang / Accounts Receivable Ledger update for stores that sell to customers on credit.
+Salryn POS is preparing a separately quoted Utang Ledger add-on for stores that need organized Accounts Receivable / customer credit tracking.
 
 The planned update includes:
 
@@ -62,7 +62,7 @@ The planned update includes:
 
 Utang will be tracked separately from cash received, and later collections will reduce the customer balance without creating another sale.
 
-This update is under development and manual QA. It is not yet included in the currently downloadable installer.
+This optional paid add-on is under development and manual QA. It is not included in the currently downloadable installer.
 
 ---
 
