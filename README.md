@@ -41,6 +41,31 @@ Internet may be needed for downloading the installer, updates, setup help, or su
 
 ---
 
+## Upcoming Update: Utang Ledger
+
+Salryn POS is preparing an Utang / Accounts Receivable Ledger update for stores that sell to customers on credit.
+
+The planned update includes:
+
+- A customer account for each credit customer
+- Required customer full name
+- Phone number field
+- Automatic date and time recording
+- The user or cashier who recorded the utang
+- Optional notes
+- A due-date calendar for the promised payment date
+- Cash, Utang, and Cash + Utang checkout support
+- Customer balance tracking
+- Payment collection tracking
+- Recurring utang history for each customer
+- Outstanding balance and overdue visibility
+
+Utang will be tracked separately from cash received, and later collections will reduce the customer balance without creating another sale.
+
+This update is under development and manual QA. It is not yet included in the currently downloadable installer.
+
+---
+
 ## Why Salryn POS
 
 Many small stores still rely on notebooks, calculators, spreadsheets, or older-looking POS systems.
