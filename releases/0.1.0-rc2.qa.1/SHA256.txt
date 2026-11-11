@@ -1,0 +1,7 @@
+SHA-256: 07bf3f4ca13aae8e2644b7ddee5b054f4294161929a2a4562f91f5922603acf9
+Filename: Salryn-POS-v0.1.0-rc2.qa.1-Win-x64-QA-Setup.exe
+Size: 24370315 bytes
+ApplicationSourceSha: ce554a2c354dce47952345862b3de59418a141de
+PackagingSha: 556e04efee98d78816ab63bce0bef653d07f0e68
+BuiltUtc: 2026-11-11T07:30:26.3363903Z
+Original: https://drive.google.com/file/d/1WCUleoDV1AWKtNX-ch7xzABVjmViCB6O/view?usp=drive_link
